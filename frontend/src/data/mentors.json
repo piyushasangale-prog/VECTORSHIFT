@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "role": "Senior Frontend Engineer",
+    "company": "TechFlow",
+    "expertise": ["Web Development", "React", "Tailwind CSS"],
+    "rating": 4.9,
+    "reviews": 128,
+    "image": "https://i.pravatar.cc/150?u=alex"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Chen",
+    "role": "Full Stack Developer",
+    "company": "Innovate Inc",
+    "expertise": ["Web Development", "Node.js", "Vue"],
+    "rating": 5.0,
+    "reviews": 89,
+    "image": "https://i.pravatar.cc/150?u=sarah"
+  },
+  {
+    "id": 3,
+    "name": "Michael Rodriguez",
+    "role": "Lead Software Engineer",
+    "company": "Global Systems",
+    "expertise": ["Web Development", "TypeScript", "Next.js"],
+    "rating": 4.8,
+    "reviews": 215,
+    "image": "https://i.pravatar.cc/150?u=michael"
+  },
+  {
+    "id": 4,
+    "name": "Emily Watson",
+    "role": "Data Scientist",
+    "company": "DataCorp",
+    "expertise": ["Data Science", "Python", "Machine Learning"],
+    "rating": 4.9,
+    "reviews": 156,
+    "image": "https://i.pravatar.cc/150?u=emily"
+  },
+  {
+    "id": 5,
+    "name": "David Kim",
+    "role": "UX/UI Designer",
+    "company": "Creative Agency",
+    "expertise": ["UI/UX", "Figma", "User Research"],
+    "rating": 4.7,
+    "reviews": 92,
+    "image": "https://i.pravatar.cc/150?u=david"
+  }
+]
